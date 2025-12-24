@@ -1,0 +1,97 @@
+.mydiv
+		{
+			height:350px;
+			width:200px;
+			display:inline-block;
+		        background-color:pink;
+			border:solid;
+			margin:10px;
+			padding:10px;
+		}
+.v
+		{
+			height:150px;
+			width:200px;
+			display:inline-block;
+		        background-color:lightgreen;
+			border:solid;
+			margin:10px;
+			padding:10px;
+		}
+
+h1
+{
+height:100px;
+color:purple;
+background-color:green;
+
+}
+footer
+{
+height:50px;
+color:purple;
+background-color:green;
+}
+#H{
+height:100%;
+width:100%;
+color:red;
+}
+#lion{
+color:black;
+}
+#tiger{
+color:red;
+}
+#polar{
+color:white
+;
+}
+#para{
+color:red;
+}
+#V{
+color:green;
+}
+#G{
+color:red;
+font-size:30px;
+}
+#P{
+color:green;
+font-size:20px;
+}
+
+p
+{
+color:blue;
+font-size:20px;
+}
+h2
+{
+color:blue;
+}
+.v:hover{
+color:blue;
+}
+.mydiv:hover{
+color:red;
+}
+#V{
+font-size:20px;
+}
+@media(max-width:768px){
+           
+#I{
+ width:300px
+}
+h1{
+font-size:40px;
+}
+p{
+font-size:30px;
+}
+#P{
+font-size:30px;
+}
+}
